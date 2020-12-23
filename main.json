@@ -1,5 +1,68 @@
 [
   {
+    "spot": "Skt. Peter Ording",
+    "url_code": "skt_peter-ording",
+    "country_code": "DE",
+    "coordinates": {
+      "latitude": 54.3318,
+      "longitude": 8.5995
+    }
+  },
+  {
+    "spot": "Wyk auf F\u00f6hr",
+    "url_code": "wyk_foehr",
+    "country_code": "DE",
+    "coordinates": {
+      "latitude": 54.6796,
+      "longitude": 8.5602
+    }
+  },
+  {
+    "spot": "Xanten",
+    "url_code": "xanten",
+    "country_code": "DE",
+    "coordinates": {
+      "latitude": 51.652,
+      "longitude": 6.4425
+    }
+  },
+  {
+    "spot": "Tarifa",
+    "url_code": "tarifa-puerto",
+    "country_code": "ES",
+    "coordinates": {
+      "latitude": 36.0081,
+      "longitude": -5.6012
+    }
+  },
+  {
+    "spot": "Ambleteuse",
+    "url_code": "ambleteuse",
+    "country_code": "FR",
+    "coordinates": {
+      "latitude": 50.8036,
+      "longitude": 1.6029
+    }
+  },
+  {
+    "spot": "Wissant",
+    "url_code": "cap-gris-nez",
+    "country_code": "FR",
+    "coordinates": {
+      "latitude": 50.871,
+      "longitude": 1.583
+    }
+  },
+  {
+    "spot": "Dakhla",
+    "url_code": "dakhla_attitude",
+    "country_code": "MA",
+    "coordinates": {
+      "latitude": 23.8942,
+      "longitude": -15.7711
+    }
+  },
+  {
     "spot": "Brouwersdam",
     "url_code": "brouwersdam",
     "country_code": "NL",
@@ -15,15 +78,6 @@
     "coordinates": {
       "latitude": 52.8528,
       "longitude": 5.4664
-    }
-  },
-  {
-    "spot": "Wijk",
-    "url_code": "wijk_aan_zee",
-    "country_code": "NL",
-    "coordinates": {
-      "latitude": 52.5,
-      "longitude": 4.6
     }
   },
   {
@@ -54,75 +108,12 @@
     }
   },
   {
-    "spot": "Wissant",
-    "url_code": "cap-gris-nez",
-    "country_code": "FR",
+    "spot": "Wijk",
+    "url_code": "wijk_aan_zee",
+    "country_code": "NL",
     "coordinates": {
-      "latitude": 50.871,
-      "longitude": 1.583
-    }
-  },
-  {
-    "spot": "Sunset Beach",
-    "url_code": "sunset_beach_table_view",
-    "country_code": "ZA",
-    "coordinates": {
-      "latitude": -33.8569,
-      "longitude": 18.4909
-    }
-  },
-  {
-    "spot": "Tarifa",
-    "url_code": "tarifa-puerto",
-    "country_code": "ES",
-    "coordinates": {
-      "latitude": 36.0081,
-      "longitude": -5.6012
-    }
-  },
-  {
-    "spot": "Langebaan",
-    "url_code": "langebaan_za",
-    "country_code": "ZA",
-    "coordinates": {
-      "latitude": -33.08,
-      "longitude": 18.02
-    }
-  },
-  {
-    "spot": "Wyk auf F\u00f6hr",
-    "url_code": "wyk_foehr",
-    "country_code": "DE",
-    "coordinates": {
-      "latitude": 54.6796,
-      "longitude": 8.5602
-    }
-  },
-  {
-    "spot": "Skt. Peter Ording",
-    "url_code": "skt_peter-ording",
-    "country_code": "DE",
-    "coordinates": {
-      "latitude": 54.3318,
-      "longitude": 8.5995
-    }
-  },
-  {
-    "spot": "Xanten",
-    "url_code": "xanten",
-    "country_code": "DE",
-    "coordinates": {
-      "latitude": 51.652,
-      "longitude": 6.4425
-    }
-  },
-  {
-    "spot": "Ambleteuse",
-    "url_code": "ambleteuse",
-    "country_code": "FR",
-    "coordinates": {
-      "latitude": 50.8036,
-      "longitude": 1.6029
+      "latitude": 52.5,
+      "longitude": 4.6
     }
   },
   {
@@ -135,15 +126,6 @@
     }
   },
   {
-    "spot": "Viana do Castelo",
-    "url_code": "cabedelo_de_viana",
-    "country_code": "PT",
-    "coordinates": {
-      "latitude": 41.6682,
-      "longitude": -8.8248
-    }
-  },
-  {
     "spot": "Nazar\u00e9",
     "url_code": "gafanha_da_nazare",
     "country_code": "PT",
@@ -153,12 +135,30 @@
     }
   },
   {
-    "spot": "Dakhla",
-    "url_code": "dakhla_attitude",
-    "country_code": "MA",
+    "spot": "Viana do Castelo",
+    "url_code": "cabedelo_de_viana",
+    "country_code": "PT",
     "coordinates": {
-      "latitude": 23.8942,
-      "longitude": -15.7711
+      "latitude": 41.6682,
+      "longitude": -8.8248
+    }
+  },
+  {
+    "spot": "Langebaan",
+    "url_code": "langebaan_za",
+    "country_code": "ZA",
+    "coordinates": {
+      "latitude": -33.08,
+      "longitude": 18.02
+    }
+  },
+  {
+    "spot": "Sunset Beach",
+    "url_code": "sunset_beach_table_view",
+    "country_code": "ZA",
+    "coordinates": {
+      "latitude": -33.8569,
+      "longitude": 18.4909
     }
   }
 ]
