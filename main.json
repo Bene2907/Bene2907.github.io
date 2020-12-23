@@ -4,8 +4,8 @@
     "url_code": "brouwersdam",
     "country_code": "NL",
     "coordinates": {
-      "latitude": "51.7631",
-      "longitude": "3.8524"
+      "latitude": 51.7631,
+      "longitude": 3.8524
     }
   },
   {
@@ -13,8 +13,8 @@
     "url_code": "ijsselmeer_mirns",
     "country_code": "NL",
     "coordinates": {
-      "latitude": "52.8528",
-      "longitude": "5.4664"
+      "latitude": 52.8528,
+      "longitude": 5.4664
     }
   },
   {
@@ -22,8 +22,8 @@
     "url_code": "wijk_aan_zee",
     "country_code": "NL",
     "coordinates": {
-      "latitude": "52.5000",
-      "longitude": "4.6000"
+      "latitude": 52.5,
+      "longitude": 4.6
     }
   },
   {
@@ -31,8 +31,8 @@
     "url_code": "ouddorp",
     "country_code": "NL",
     "coordinates": {
-      "latitude": "51.8068",
-      "longitude": "3.9412"
+      "latitude": 51.8068,
+      "longitude": 3.9412
     }
   },
   {
@@ -40,8 +40,8 @@
     "url_code": "veluwemeer",
     "country_code": "NL",
     "coordinates": {
-      "latitude": "52.3900",
-      "longitude": "5.6410"
+      "latitude": 52.39,
+      "longitude": 5.641
     }
   },
   {
@@ -49,8 +49,8 @@
     "url_code": "vrouwenpolder",
     "country_code": "NL",
     "coordinates": {
-      "latitude": "51.5877",
-      "longitude": "3.6309"
+      "latitude": 51.5877,
+      "longitude": 3.6309
     }
   },
   {
@@ -58,8 +58,8 @@
     "url_code": "cap-gris-nez",
     "country_code": "FR",
     "coordinates": {
-      "latitude": "50.8710",
-      "longitude": "1.5830"
+      "latitude": 50.871,
+      "longitude": 1.583
     }
   },
   {
@@ -67,8 +67,8 @@
     "url_code": "sunset_beach_table_view",
     "country_code": "ZA",
     "coordinates": {
-      "latitude": "-33.8569",
-      "longitude": "18.4909"
+      "latitude": -33.8569,
+      "longitude": 18.4909
     }
   },
   {
@@ -76,8 +76,8 @@
     "url_code": "tarifa-puerto",
     "country_code": "ES",
     "coordinates": {
-      "latitude": "36.0081",
-      "longitude": "-5.6012"
+      "latitude": 36.0081,
+      "longitude": -5.6012
     }
   },
   {
@@ -85,8 +85,8 @@
     "url_code": "langebaan_za",
     "country_code": "ZA",
     "coordinates": {
-      "latitude": "-33.0800",
-      "longitude": "18.0200"
+      "latitude": -33.08,
+      "longitude": 18.02
     }
   },
   {
@@ -94,8 +94,8 @@
     "url_code": "wyk_foehr",
     "country_code": "DE",
     "coordinates": {
-      "latitude": "54.6796",
-      "longitude": "8.5602"
+      "latitude": 54.6796,
+      "longitude": 8.5602
     }
   },
   {
@@ -103,8 +103,8 @@
     "url_code": "skt_peter-ording",
     "country_code": "DE",
     "coordinates": {
-      "latitude": "54.3318",
-      "longitude": "8.5995"
+      "latitude": 54.3318,
+      "longitude": 8.5995
     }
   },
   {
@@ -112,8 +112,8 @@
     "url_code": "xanten",
     "country_code": "DE",
     "coordinates": {
-      "latitude": "51.6520",
-      "longitude": "6.4425"
+      "latitude": 51.652,
+      "longitude": 6.4425
     }
   },
   {
@@ -121,8 +121,8 @@
     "url_code": "ambleteuse",
     "country_code": "FR",
     "coordinates": {
-      "latitude": "50.8036",
-      "longitude": "1.6029"
+      "latitude": 50.8036,
+      "longitude": 1.6029
     }
   },
   {
@@ -130,8 +130,8 @@
     "url_code": "guincho",
     "country_code": "PT",
     "coordinates": {
-      "latitude": "38.7333",
-      "longitude": "-9.4727"
+      "latitude": 38.7333,
+      "longitude": -9.4727
     }
   },
   {
@@ -139,8 +139,8 @@
     "url_code": "cabedelo_de_viana",
     "country_code": "PT",
     "coordinates": {
-      "latitude": "41.6682",
-      "longitude": "-8.8248"
+      "latitude": 41.6682,
+      "longitude": -8.8248
     }
   },
   {
@@ -148,8 +148,8 @@
     "url_code": "gafanha_da_nazare",
     "country_code": "PT",
     "coordinates": {
-      "latitude": "40.6279",
-      "longitude": "-8.7111"
+      "latitude": 40.6279,
+      "longitude": -8.7111
     }
   },
   {
@@ -157,8 +157,8 @@
     "url_code": "dakhla_attitude",
     "country_code": "MA",
     "coordinates": {
-      "latitude": "23.8942",
-      "longitude": "-15.7711"
+      "latitude": 23.8942,
+      "longitude": -15.7711
     }
   }
 ]
