@@ -910,7 +910,7 @@
     "cloud.snow.fill",
     "cloud.snow.fill"
   ],
-  "current_temperature": 0,
+  "current_temperature": -1,
   "temperature": [
     2.0,
     1.0,
