@@ -5,7 +5,7 @@
     "longitude": 18.02
   },
   "country_code": "ZA",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     12,
     12,
@@ -333,8 +333,8 @@
     17,
     20
   ],
-  "current_wind": 10,
-  "current_wind_direction": 181,
+  "current_wind": 3,
+  "current_wind_direction": 290,
   "wind_speed": [
     9,
     10,
@@ -515,7 +515,7 @@
     187,
     184,
     197,
-    208,
+    202,
     226,
     244,
     243,
@@ -905,7 +905,7 @@
     "cloud.sun.fill",
     "cloud.sun.fill"
   ],
-  "current_temperature": 19,
+  "current_temperature": 17,
   "temperature": [
     19,
     18,
