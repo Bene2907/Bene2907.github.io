@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 11,
-  "current_wind_direction": 258,
+  "current_wind": 12,
+  "current_wind_direction": 259,
   "wind_speed": [
     36.0,
     36.0,
@@ -662,7 +662,7 @@
     0.6,
     0.6,
     0.6,
-    0.7
+    0.6
   ],
   "wave_period": [
     9.0,
@@ -824,9 +824,9 @@
     240,
     229,
     227,
-    214,
-    204,
-    207
+    217,
+    217,
+    228
   ],
   "weather_icon": [
     "cloud.drizzle.fill",
