@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 29,
-  "current_wind_direction": 195,
+  "current_wind": 10,
+  "current_wind_direction": 191,
   "wind_speed": [
     38.0,
     38.0,
@@ -825,8 +825,8 @@
     100,
     93,
     99,
-    139,
-    129
+    101,
+    117
   ],
   "weather_icon": [
     "cloud.drizzle.fill",
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "moon.fill"
   ],
-  "current_temperature": 7,
+  "current_temperature": 6,
   "temperature": [
     4.0,
     6.0,
