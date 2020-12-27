@@ -5,7 +5,7 @@
     "longitude": 18.02
   },
   "country_code": "ZA",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     12,
     12,
@@ -334,8 +334,8 @@
     20,
     23
   ],
-  "current_wind": 14,
-  "current_wind_direction": 195,
+  "current_wind": 9,
+  "current_wind_direction": 270,
   "wind_speed": [
     10.0,
     11.0,
@@ -659,10 +659,10 @@
     2.3,
     2.2,
     2.1,
-    1.9,
-    1.9,
-    2.0,
-    0
+    2.1,
+    2.1,
+    2.1,
+    2.1
   ],
   "wave_period": [
     10.0,
@@ -741,10 +741,10 @@
     13,
     13,
     13,
-    11,
-    11,
-    11,
-    0
+    12,
+    12,
+    12,
+    12
   ],
   "wave_direction": [
     229,
@@ -823,10 +823,10 @@
     215,
     215,
     217,
-    216,
-    216,
-    216,
-    0
+    217,
+    217,
+    218,
+    219
   ],
   "weather_icon": [
     "cloud.sun.fill",
@@ -910,7 +910,7 @@
     "cloud.sun.fill",
     "cloud.fill"
   ],
-  "current_temperature": 19,
+  "current_temperature": 22,
   "temperature": [
     19.0,
     19.0,
