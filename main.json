@@ -1,6 +1,6 @@
 [
   {
-    "id": "ba2b857f-04c5-4546-bac4-172bbe433604",
+    "id": "4866014a-91c5-4818-8969-0a45719ae04c",
     "spot": "Skt. Peter Ording",
     "url_code": "skt_peter-ording",
     "country_code": "DE",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "id": "0934a210-1062-4a34-a481-194e33455b88",
+    "id": "49b0d3e5-97da-41fc-a79a-b93550544d2e",
     "spot": "Wyk auf F\u00f6hr",
     "url_code": "wyk_foehr",
     "country_code": "DE",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "id": "92be281b-208c-4214-b209-c3b3033b05ce",
+    "id": "7e50abd9-65b7-4948-8f43-64e79d008e38",
     "spot": "Xanten",
     "url_code": "xanten",
     "country_code": "DE",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "id": "76f24f68-dadb-474d-9093-b363413d1fbc",
+    "id": "504fa634-8495-4400-a432-6804ba8a2964",
     "spot": "Tarifa",
     "url_code": "tarifa-puerto",
     "country_code": "ES",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "id": "1fbbf571-6630-4272-b44a-dcd0cf0dfb98",
+    "id": "3d630017-c0a6-4999-9bad-824893722861",
     "spot": "Ambleteuse",
     "url_code": "ambleteuse",
     "country_code": "FR",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "id": "39bcc380-d379-4593-92fc-3a6267111d8c",
+    "id": "88af59ac-83b3-439b-a47c-e70c1acf1fc1",
     "spot": "Wissant",
     "url_code": "cap-gris-nez",
     "country_code": "FR",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "id": "15290e17-e501-4555-af2b-ca7ad6899930",
+    "id": "15480105-40c2-4822-a0b7-399a5f66c8d2",
     "spot": "Dakhla",
     "url_code": "dakhla_attitude",
     "country_code": "MA",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "id": "07e8726a-eced-45cc-b929-2622775a8aae",
+    "id": "48016fc3-c62f-4d16-b884-8ab862bc377b",
     "spot": "Brouwersdam",
     "url_code": "brouwersdam",
     "country_code": "NL",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "id": "6fa6d368-2b1c-4960-b861-298abadbbf59",
+    "id": "50d9d114-fe7d-4f48-80fe-bb8ea0792a50",
     "spot": "Mirns",
     "url_code": "ijsselmeer_mirns",
     "country_code": "NL",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "id": "8ed5b5b4-0a0e-43f6-8b42-aa322a954de1",
+    "id": "a2d77cea-3281-4d69-8fc1-5d96c22d4c6e",
     "spot": "Ouddorp",
     "url_code": "ouddorp",
     "country_code": "NL",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "id": "84bea197-4faf-47f0-9102-d0eb5dad8b73",
+    "id": "7c2e6c6d-41f1-4ef5-a8b8-5764d85676b4",
     "spot": "Veluwemeer",
     "url_code": "veluwemeer",
     "country_code": "NL",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "id": "f6713349-c868-4fca-9172-0a3e24656444",
+    "id": "6b3decd2-8e71-4dab-b0fa-fa975986ad9f",
     "spot": "Vrouwenpolder",
     "url_code": "vrouwenpolder",
     "country_code": "NL",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "id": "a93bdbd4-a19a-44be-b871-a6e5a4ece8ab",
+    "id": "a156f41f-d951-45f7-a2fe-1fb536a782dd",
     "spot": "Wijk",
     "url_code": "wijk_aan_zee",
     "country_code": "NL",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "id": "edec6c11-060d-4b81-880a-b32520a8b4f3",
+    "id": "785e0bc8-69bf-48a8-ae9e-712f7c698ac2",
     "spot": "Guincho",
     "url_code": "guincho",
     "country_code": "PT",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "id": "f322714e-acb6-40c7-a0b1-2d0303023a29",
+    "id": "28251612-3c69-43a1-b4c9-f3d178b19b5c",
     "spot": "Nazar\u00e9",
     "url_code": "gafanha_da_nazare",
     "country_code": "PT",
@@ -150,7 +150,7 @@
     }
   },
   {
-    "id": "b4dfb35e-c8af-49e4-9820-e0526a915d36",
+    "id": "ea5037cf-407e-4c23-a31d-73f8a7feca82",
     "spot": "Viana do Castelo",
     "url_code": "cabedelo_de_viana",
     "country_code": "PT",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "id": "e9bfc9ba-42f8-4173-85b2-1ddf9423c3ad",
+    "id": "72e82046-dcac-4972-b0b1-cfa7322b7487",
     "spot": "Langebaan",
     "url_code": "langebaan_za",
     "country_code": "ZA",
@@ -170,7 +170,7 @@
     }
   },
   {
-    "id": "d6ff625e-a187-4232-877c-4623482197ab",
+    "id": "b1eef5ba-d120-43e6-8515-ffb018c67cb3",
     "spot": "Sunset Beach",
     "url_code": "sunset_beach_table_view",
     "country_code": "ZA",
