@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 8,
-  "current_wind_direction": 223,
+  "current_wind": 10,
+  "current_wind_direction": 220,
   "wind_speed": [
     17.0,
     14.0,
@@ -910,7 +910,7 @@
     "cloud.sleet.fill",
     "cloud.sleet.fill"
   ],
-  "current_temperature": 9,
+  "current_temperature": 10,
   "temperature": [
     8.0,
     8.0,
