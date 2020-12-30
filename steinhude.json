@@ -5,7 +5,7 @@
     "longitude": 9.43
   },
   "country_code": "DE",
-  "is_weather_station": true,
+  "is_weather_station": false,
   "month": [
     12,
     12,
@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 0,
-  "current_wind_direction": 0,
+  "current_wind": 10,
+  "current_wind_direction": 213,
   "wind_speed": [
     12.0,
     12.0,
@@ -910,7 +910,7 @@
     "cloud.sleet.fill",
     "cloud.drizzle.fill"
   ],
-  "current_temperature": 0,
+  "current_temperature": 2,
   "temperature": [
     0.0,
     0.0,
