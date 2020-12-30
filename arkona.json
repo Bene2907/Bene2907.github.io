@@ -333,12 +333,12 @@
     16,
     19
   ],
-  "current_wind": 18,
-  "current_wind_direction": 210,
+  "current_wind": 19,
+  "current_wind_direction": 200,
   "wind_speed": [
     16,
     16,
-    16,
+    15,
     16,
     14,
     12,
@@ -417,9 +417,9 @@
     15
   ],
   "wind_gusts": [
-    23,
-    19,
+    22,
     21,
+    18,
     19,
     20,
     18,
@@ -498,9 +498,9 @@
     17
   ],
   "wind_direction": [
-    214,
-    219,
-    202,
+    210,
+    212,
+    208,
     207,
     210,
     206,
@@ -825,8 +825,8 @@
     0
   ],
   "weather_icon": [
-    "cloud.fill",
     "cloud.drizzle.fill",
+    "cloud.fill",
     "cloud.fill",
     "cloud.fill",
     "cloud.fill",
@@ -909,7 +909,7 @@
   "temperature": [
     4,
     3,
-    3,
+    2,
     3,
     2,
     2,
