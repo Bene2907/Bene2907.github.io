@@ -334,8 +334,8 @@
     18,
     21
   ],
-  "current_wind": 17,
-  "current_wind_direction": 10,
+  "current_wind": 15,
+  "current_wind_direction": 20,
   "wind_speed": [
     10.0,
     11.0,
@@ -407,16 +407,16 @@
     16,
     18,
     18,
-    15,
+    18,
     18,
     17,
     15,
+    14,
     13,
     14,
-    16,
-    16,
-    16,
-    18
+    13,
+    15,
+    16
   ],
   "wind_gusts": [
     14.0,
@@ -489,16 +489,16 @@
     20,
     19,
     20,
-    17,
+    20,
     21,
+    20,
     19,
     18,
     16,
-    17,
-    18,
-    18,
-    19,
-    21
+    15,
+    14,
+    16,
+    19
   ],
   "wind_direction": [
     21,
@@ -571,16 +571,16 @@
     30,
     36,
     33,
-    23,
+    29,
     34,
-    30,
-    33,
-    39,
-    34,
-    44,
+    32,
+    40,
+    42,
+    45,
+    54,
+    46,
     43,
-    43,
-    40
+    53
   ],
   "wave_height": [
     2.2,
@@ -901,16 +901,16 @@
     "sun.max.fill",
     "sun.max.fill",
     "moon.fill",
-    "cloud.moon.fill",
     "moon.fill",
-    "cloud.moon.fill",
+    "moon.fill",
+    "moon.fill",
+    "sun.max.fill",
     "cloud.sun.fill",
-    "cloud.sun.fill",
-    "cloud.sun.fill",
+    "sun.max.fill",
     "sun.max.fill",
     "moon.fill"
   ],
-  "current_temperature": 19,
+  "current_temperature": 18,
   "temperature": [
     15.0,
     16.0,
@@ -984,13 +984,13 @@
     16,
     16,
     16,
-    16,
     15,
     15,
+    14,
     15,
     16,
     17,
     16,
-    15
+    16
   ]
 }
