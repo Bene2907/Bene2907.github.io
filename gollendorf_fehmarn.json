@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 1,
-  "current_wind_direction": 206,
+  "current_wind": 2,
+  "current_wind_direction": 202,
   "wind_speed": [
     8.0,
     6.0,
@@ -524,7 +524,7 @@
     40,
     44,
     48,
-    42,
+    44,
     43,
     43,
     44,
@@ -852,7 +852,7 @@
     "cloud.fill",
     "cloud.drizzle.fill",
     "cloud.drizzle.fill",
-    "cloud.fill",
+    "cloud.moon.rain.fill",
     "cloud.fill",
     "cloud.fill",
     "cloud.moon.fill",

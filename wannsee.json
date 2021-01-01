@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 8,
-  "current_wind_direction": 210,
+  "current_wind": 6,
+  "current_wind_direction": 200,
   "wind_speed": [
     3.0,
     2.0,
@@ -524,7 +524,7 @@
     50,
     48,
     53,
-    53,
+    47,
     33,
     48,
     63,
