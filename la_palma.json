@@ -334,8 +334,8 @@
     18,
     21
   ],
-  "current_wind": 6,
-  "current_wind_direction": 290,
+  "current_wind": 7,
+  "current_wind_direction": 40,
   "wind_speed": [
     8.0,
     9.0,
@@ -414,8 +414,8 @@
     13,
     15,
     17,
-    6,
-    8,
+    13,
+    14,
     16
   ],
   "wind_gusts": [
@@ -496,8 +496,8 @@
     15,
     16,
     17,
-    7,
-    10,
+    14,
+    15,
     18
   ],
   "wind_direction": [
@@ -578,8 +578,8 @@
     26,
     30,
     37,
-    38,
-    26,
+    39,
+    29,
     33
   ],
   "wave_height": [
@@ -910,7 +910,7 @@
     "cloud.sun.fill",
     "cloud.moon.fill"
   ],
-  "current_temperature": 18,
+  "current_temperature": 19,
   "temperature": [
     15.0,
     16.0,
@@ -989,8 +989,8 @@
     15,
     16,
     16,
-    17,
-    17,
+    16,
+    16,
     16
   ]
 }
