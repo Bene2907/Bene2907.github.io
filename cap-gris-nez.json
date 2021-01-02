@@ -5,7 +5,7 @@
     "longitude": 1.583
   },
   "country_code": "FR",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     1,
     1,
@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 12,
-  "current_wind_direction": 357,
+  "current_wind": 18,
+  "current_wind_direction": 10,
   "wind_speed": [
     10.0,
     12.0,

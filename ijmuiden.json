@@ -5,7 +5,7 @@
     "longitude": 4.555
   },
   "country_code": "NL",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     1,
     1,
@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 8,
-  "current_wind_direction": 61,
+  "current_wind": 4,
+  "current_wind_direction": 137,
   "wind_speed": [
     8.0,
     8.0,
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "cloud.sleet.fill"
   ],
-  "current_temperature": 5,
+  "current_temperature": 0,
   "temperature": [
     6.0,
     6.0,
