@@ -86,6 +86,14 @@
     1,
     1,
     1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
     1
   ],
   "day": [
@@ -168,7 +176,15 @@
     11,
     11,
     11,
-    11
+    11,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12,
+    12
   ],
   "weekday": [
     "Saturday",
@@ -250,7 +266,15 @@
     "Monday",
     "Monday",
     "Monday",
-    "Monday"
+    "Monday",
+    "Tuesday",
+    "Tuesday",
+    "Tuesday",
+    "Tuesday",
+    "Tuesday",
+    "Tuesday",
+    "Tuesday",
+    "Tuesday"
   ],
   "hour": [
     6,
@@ -332,9 +356,16 @@
     12,
     15,
     18,
-    21
+    21,
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18
   ],
-  "current_wind": 9,
+  "current_wind": 7,
   "current_wind_direction": 30,
   "wind_speed": [
     10.0,
@@ -416,7 +447,14 @@
     17,
     17,
     16,
-    15
+    15,
+    13,
+    13,
+    12,
+    14,
+    15,
+    17,
+    17
   ],
   "wind_gusts": [
     14.0,
@@ -498,7 +536,14 @@
     19,
     17,
     16,
-    17
+    17,
+    14,
+    16,
+    14,
+    18,
+    17,
+    18,
+    18
   ],
   "wind_direction": [
     42,
@@ -580,7 +625,14 @@
     49,
     47,
     36,
-    33
+    33,
+    27,
+    31,
+    26,
+    24,
+    40,
+    47,
+    45
   ],
   "wave_height": [
     0.8,
@@ -661,6 +713,11 @@
     0.9,
     0.9,
     0.9,
+    1.0,
+    1.0,
+    1.1,
+    1.1,
+    1.1,
     1.0,
     1.0
   ],
@@ -744,6 +801,11 @@
     11,
     11,
     11,
+    10,
+    10,
+    10,
+    11,
+    10,
     10
   ],
   "wave_direction": [
@@ -826,7 +888,12 @@
     212,
     223,
     224,
-    220
+    220,
+    201,
+    208,
+    220,
+    218,
+    217
   ],
   "weather_icon": [
     "cloud.moon.fill",
@@ -908,7 +975,14 @@
     "cloud.sun.fill",
     "cloud.sun.fill",
     "cloud.sun.fill",
-    "cloud.moon.fill"
+    "cloud.moon.fill",
+    "cloud.moon.fill",
+    "cloud.moon.fill",
+    "moon.fill",
+    "cloud.sun.fill",
+    "cloud.sun.fill",
+    "cloud.sun.fill",
+    "cloud.fill"
   ],
   "current_temperature": 17,
   "temperature": [
@@ -991,6 +1065,13 @@
     17,
     17,
     17,
-    16
+    16,
+    16,
+    16,
+    16,
+    17,
+    19,
+    19,
+    18
   ]
 }
