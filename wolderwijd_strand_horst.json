@@ -331,15 +331,16 @@
     10,
     13,
     16,
-    19
+    19,
+    22
   ],
   "current_wind": 6,
   "current_wind_direction": 35,
   "wind_speed": [
-    8,
+    6,
     7,
     8,
-    12,
+    10,
     13,
     12,
     14,
@@ -412,16 +413,17 @@
     16,
     16,
     17,
-    1,
-    1,
-    1
+    15,
+    9,
+    9,
+    14
   ],
   "wind_gusts": [
-    12,
-    14,
+    15,
     16,
-    18,
-    22,
+    14,
+    20,
+    24,
     22,
     22,
     24,
@@ -493,18 +495,19 @@
     30,
     32,
     33,
-    2,
-    1,
-    2
+    26,
+    19,
+    20,
+    29
   ],
   "wind_direction": [
-    87,
-    76,
-    47,
-    40,
-    40,
-    52,
-    44,
+    66,
+    56,
+    56,
+    48,
+    42,
+    45,
+    42,
     44,
     50,
     46,
@@ -574,9 +577,10 @@
     196,
     192,
     183,
-    330,
+    229,
+    236,
     196,
-    316
+    192
   ],
   "wave_height": [
     0.1,
@@ -825,6 +829,7 @@
     0
   ],
   "weather_icon": [
+    "moon.fill",
     "cloud.fill",
     "cloud.fill",
     "cloud.fill",
@@ -832,7 +837,6 @@
     "cloud.fill",
     "cloud.fill",
     "cloud.fill",
-    "cloud.drizzle.fill",
     "cloud.drizzle.fill",
     "cloud.drizzle.fill",
     "cloud.fill",
@@ -901,20 +905,21 @@
     "cloud.fill",
     "cloud.drizzle.fill",
     "cloud.rain.fill",
-    "sun.max.fill",
-    "cloud.sun.fill",
-    "cloud.fill"
+    "cloud.drizzle.fill",
+    "cloud.fill",
+    "cloud.moon.fill",
+    "moon.fill"
   ],
   "current_temperature": 1,
   "temperature": [
+    0,
+    1,
+    1,
     2,
     2,
     2,
     2,
     2,
-    2,
-    2,
-    3,
     3,
     2,
     2,
@@ -983,8 +988,9 @@
     4,
     5,
     5,
-    3,
-    1,
-    0
+    7,
+    5,
+    2,
+    2
   ]
 }
