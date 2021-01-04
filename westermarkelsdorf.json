@@ -334,7 +334,7 @@
     19,
     22
   ],
-  "current_wind": 21,
+  "current_wind": 24,
   "current_wind_direction": 40,
   "wind_speed": [
     21.0,
@@ -364,7 +364,7 @@
     10,
     11,
     10,
-    10,
+    14,
     8,
     9,
     8,
@@ -446,7 +446,7 @@
     10,
     11,
     11,
-    11,
+    17,
     9,
     10,
     9,
@@ -528,7 +528,7 @@
     21,
     22,
     28,
-    35,
+    56,
     33,
     54,
     35,
@@ -856,7 +856,7 @@
     "cloud.sleet.fill",
     "cloud.sleet.fill",
     "cloud.snow.fill",
-    "cloud.snow.fill",
+    "cloud.fill",
     "cloud.snow.fill",
     "cloud.snow.fill",
     "cloud.fill",
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "cloud.fill"
   ],
-  "current_temperature": 1,
+  "current_temperature": 2,
   "temperature": [
     1.0,
     1.0,
