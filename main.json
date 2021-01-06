@@ -1,6 +1,6 @@
 [
   {
-    "id": "ebc08a1b-1d99-48ea-a01c-db4fc6f98c34",
+    "id": "292501fc-37a6-4db8-aac1-0b91ea163e6e",
     "spot": "Amsterdam-Schiphol Airport",
     "url_code": "amsterdam-schiphol",
     "country_code": "NL",
@@ -17,7 +17,7 @@
     "score6": 0.0136
   },
   {
-    "id": "433e30a1-5de5-4f65-bd01-4f283fa59786",
+    "id": "16e71f94-ba04-4295-88f6-fcde5734cdb2",
     "spot": "Arkona",
     "url_code": "arkona",
     "country_code": "DE",
@@ -34,7 +34,7 @@
     "score6": 0.2074
   },
   {
-    "id": "e86dc903-b4b8-465f-8e05-cadf1b338ec2",
+    "id": "4b178891-c59f-4cd8-9bab-7023c6a4798b",
     "spot": "Barcelona Aeropuerto",
     "url_code": "barcelona",
     "country_code": "ES",
@@ -51,7 +51,7 @@
     "score6": 0.0662
   },
   {
-    "id": "318fa078-472c-447c-8350-eeb91cfff0b2",
+    "id": "61bb53eb-584a-477b-9e98-36b8197f5beb",
     "spot": "Barcelona Puerto Ol\u00edmpico",
     "url_code": "barcelona_puerto_olimpico",
     "country_code": "ES",
@@ -68,7 +68,7 @@
     "score6": 0.0665
   },
   {
-    "id": "d07a51d3-efc5-4931-92de-bce1df234267",
+    "id": "1789d278-e096-41e5-b23e-6de671f3349a",
     "spot": "Berlin/Tempelhofer Feld",
     "url_code": "tempelhof",
     "country_code": "DE",
@@ -85,7 +85,7 @@
     "score6": 0.001
   },
   {
-    "id": "21c50cb7-41e6-4533-bf3a-0417b559ea85",
+    "id": "8b9a9ebd-d9be-442b-9d81-f5404667ac04",
     "spot": "Brouwersdam",
     "url_code": "brouwersdam",
     "country_code": "NL",
@@ -102,7 +102,7 @@
     "score6": 0.0418
   },
   {
-    "id": "9ec8a7dd-bd21-45cb-88b9-bbf210c15135",
+    "id": "dcac5bbe-51c4-40fd-87d4-3c985c2ca3a2",
     "spot": "Burela",
     "url_code": "burela",
     "country_code": "ES",
@@ -119,7 +119,7 @@
     "score6": 0.026
   },
   {
-    "id": "7097fd02-2d3b-46cb-a57a-b13716d97b8a",
+    "id": "989e4630-826a-4037-9d0d-ab0256212dcf",
     "spot": "B\u00fcsum-Hafen",
     "url_code": "buesum-hafen",
     "country_code": "DE",
@@ -136,7 +136,7 @@
     "score6": 0.1385
   },
   {
-    "id": "b7fd0d21-a4fa-471d-95ed-07401110b43a",
+    "id": "db69619c-6626-44f0-84ba-4693c295e708",
     "spot": "Castelldefels",
     "url_code": "castelldefels",
     "country_code": "ES",
@@ -153,7 +153,7 @@
     "score6": 0.0518
   },
   {
-    "id": "ff2d9c1a-8007-4ebb-8f85-88a3f6cd36b8",
+    "id": "fd42218e-c112-4188-a9eb-33a87452acae",
     "spot": "Ciutadella de Menorca",
     "url_code": "ciutadella_menorca",
     "country_code": "ES",
@@ -170,7 +170,7 @@
     "score6": 0.7985
   },
   {
-    "id": "93f831fc-cc2e-4890-9b4c-75fd8a02a4c7",
+    "id": "f6732632-c771-4bbd-b028-7712332236e8",
     "spot": "Cuxhaven / Sahlenburg",
     "url_code": "cuxhaven_sahlenburg",
     "country_code": "DE",
@@ -187,7 +187,7 @@
     "score6": 0.1271
   },
   {
-    "id": "ce460abf-4965-4f86-aaad-95b743a93362",
+    "id": "256f6a67-3e8f-4bc6-988e-34c558fd0a87",
     "spot": "Delta del Ebro / Riumar",
     "url_code": "delta_del_ebro_riumar",
     "country_code": "ES",
@@ -204,7 +204,7 @@
     "score6": 0.4535
   },
   {
-    "id": "3d8d4b12-4d5f-4b89-96ac-914f46e1d1f5",
+    "id": "c2d5f833-44da-40e3-ad8e-40cfee8476d8",
     "spot": "El M\u00e9dano/Tenerife Sur Aeropt.",
     "url_code": "el_medano",
     "country_code": "ES",
@@ -212,16 +212,16 @@
       "latitude": 28.0475,
       "longitude": -16.5608
     },
-    "score0": 0.7805,
-    "score1": 0.6153,
-    "score2": 0.3104,
+    "score0": 0.7746,
+    "score1": 0.6207,
+    "score2": 0.3217,
     "score3": 0.1382,
     "score4": 0.1123,
     "score5": 0.3578,
     "score6": 0.553
   },
   {
-    "id": "ba843d5c-aaeb-4ac4-b2c4-7b0784bfacaf",
+    "id": "9dff9c02-480b-4075-98dd-5371e8f79688",
     "spot": "Epplesee/Rheinstetten",
     "url_code": "epplesee_rheinstetten",
     "country_code": "DE",
@@ -238,7 +238,7 @@
     "score6": 0.0726
   },
   {
-    "id": "372b628c-937e-451c-9b7e-089b7d54a7b8",
+    "id": "677fcd02-274e-4d5c-86ae-0b6effa9bcba",
     "spot": "Estaca de Bares Boya",
     "url_code": "estaca_de_bares",
     "country_code": "ES",
@@ -255,7 +255,7 @@
     "score6": 0.0936
   },
   {
-    "id": "72e4f004-967f-4335-a331-cad82f0bb783",
+    "id": "423fa02e-cec0-42db-a48a-cf0992c811c8",
     "spot": "Fehmarn-Wulfen",
     "url_code": "fehmarn-wulfen",
     "country_code": "DE",
@@ -272,7 +272,7 @@
     "score6": 0.1624
   },
   {
-    "id": "c969f8c4-ec8f-4b60-989b-d473c665caba",
+    "id": "f4c86774-73b5-4f75-9972-f38d909cfafd",
     "spot": "Fisterra",
     "url_code": "fisterra",
     "country_code": "ES",
@@ -289,7 +289,7 @@
     "score6": 0.1157
   },
   {
-    "id": "627f555a-e4f4-417a-a666-dc3df4c965e7",
+    "id": "cabc3d07-9771-4bb6-89f0-059e0925bd0d",
     "spot": "Flag Beach / Fuerteventura",
     "url_code": "fuerteventura_flag_beach",
     "country_code": "ES",
@@ -297,16 +297,16 @@
       "latitude": 28.7212,
       "longitude": -13.8418
     },
-    "score0": 0.72,
-    "score1": 0.7852,
-    "score2": 0.7013,
+    "score0": 0.7452,
+    "score1": 0.777,
+    "score2": 0.7173,
     "score3": 0.6289,
     "score4": 0.6576,
     "score5": 0.5973,
     "score6": 0.5949
   },
   {
-    "id": "c1ffcc73-59f4-4b57-b0a5-ead70785c47e",
+    "id": "e5b71945-5c2e-4f65-a522-491ca67ff801",
     "spot": "Gl\u00fccksburg-Meierwik",
     "url_code": "gluecksburg-meierwik",
     "country_code": "DE",
@@ -323,7 +323,7 @@
     "score6": 0.1166
   },
   {
-    "id": "8b008514-4719-43ed-942a-a0f44df8167d",
+    "id": "57c8c2e5-cda6-4a87-9905-77edea39e56b",
     "spot": "Gold/Fehmarn",
     "url_code": "gold",
     "country_code": "DE",
@@ -340,7 +340,7 @@
     "score6": 0.1626
   },
   {
-    "id": "6bebfb5a-7387-4373-8a8c-7f669d0fcb11",
+    "id": "62a433ff-5951-4a21-97c2-cf81c6552dfe",
     "spot": "Gollendorf/Fehmarn",
     "url_code": "gollendorf_fehmarn",
     "country_code": "DE",
@@ -357,7 +357,7 @@
     "score6": 0.1752
   },
   {
-    "id": "fcf2b46e-2daa-478e-8585-13ce4936f748",
+    "id": "784cc6d8-290f-4340-ba13-ee3d4824fdc0",
     "spot": "Hamburg Airport",
     "url_code": "hamburg",
     "country_code": "DE",
@@ -374,7 +374,7 @@
     "score6": 0.001
   },
   {
-    "id": "e78d5364-38eb-4709-a2b9-a05e5853ba69",
+    "id": "c4491321-c87b-49e9-a6c5-3ef188a281f2",
     "spot": "Harderstrand/Veluwemeer",
     "url_code": "veluwemeer",
     "country_code": "DE",
@@ -391,7 +391,7 @@
     "score6": 0.0136
   },
   {
-    "id": "6f20c8ca-8d74-4daf-b460-38b2c2e2afd1",
+    "id": "9e0c8457-cdf6-49ef-a63d-e77655e9ae32",
     "spot": "Helgoland D\u00fcne",
     "url_code": "helgoland",
     "country_code": "DE",
@@ -408,7 +408,7 @@
     "score6": 0.3165
   },
   {
-    "id": "ae8880d4-0bf4-4800-b6be-6f775dd81a02",
+    "id": "48a1c876-273d-427e-90c2-42b4fe153eda",
     "spot": "Helgoland-Oberland",
     "url_code": "helgoland-oberland",
     "country_code": "DE",
@@ -425,7 +425,7 @@
     "score6": 0.3165
   },
   {
-    "id": "991bc7ed-a9fb-48f6-99ab-970c7f39329b",
+    "id": "a5df13fa-9f2e-4788-a8aa-372c085ffb14",
     "spot": "Herrsching/Ammersee",
     "url_code": "ammersee",
     "country_code": "DE",
@@ -442,7 +442,7 @@
     "score6": 0.0009
   },
   {
-    "id": "505e8639-f542-4426-a406-e0303890b5b4",
+    "id": "83152886-e253-4ac2-afb5-dfcb012e7610",
     "spot": "Hoek van Holland",
     "url_code": "hoek_van_holland",
     "country_code": "NL",
@@ -459,7 +459,7 @@
     "score6": 0.0402
   },
   {
-    "id": "d8a094ab-2907-42cf-8377-02f17f3d93eb",
+    "id": "321e686f-44ad-4cc6-8856-ecd84b850e41",
     "spot": "Hondarribia/Fuenterrab\u00eda",
     "url_code": "hondarribia",
     "country_code": "ES",
@@ -476,7 +476,7 @@
     "score6": 0.0268
   },
   {
-    "id": "d5f3fd68-974f-4196-81a1-2544ebe8b60a",
+    "id": "f96bd19e-409e-4e3f-921f-4f069e36bace",
     "spot": "IJmuiden Zuidpier",
     "url_code": "ijmuiden",
     "country_code": "NL",
@@ -493,7 +493,7 @@
     "score6": 0.0847
   },
   {
-    "id": "19639a71-98ef-4940-b043-dad3bed9edb6",
+    "id": "b465c8d0-a7f9-4b35-901e-5dea34b30bb0",
     "spot": "Ibiza Aeropuerto",
     "url_code": "ibiza",
     "country_code": "ES",
@@ -510,7 +510,7 @@
     "score6": 0.4526
   },
   {
-    "id": "109957f5-e2ad-4f36-aee8-291d4c63f521",
+    "id": "9701141c-c1e4-42d2-b945-e0788d9ba451",
     "spot": "Ijsselmeer / Mirns",
     "url_code": "ijsselmeer_mirns",
     "country_code": "NL",
@@ -527,7 +527,7 @@
     "score6": 0.0848
   },
   {
-    "id": "1f66f7e2-fd6d-40d8-923c-28313f863745",
+    "id": "9adb0568-af7a-4c85-9a0e-5470c205bb54",
     "spot": "Kiel Lighthouse",
     "url_code": "kiel_lighthouse",
     "country_code": "DE",
@@ -544,7 +544,7 @@
     "score6": 0.1619
   },
   {
-    "id": "14f57784-a75e-4a05-9b85-39c5bcad95cb",
+    "id": "f80552c0-bc74-4ce0-9773-d342edc964fb",
     "spot": "Kiel/Leuchtturm",
     "url_code": "kiel_leuchtturm",
     "country_code": "DE",
@@ -561,7 +561,7 @@
     "score6": 0.162
   },
   {
-    "id": "f1679e9e-52d9-44d8-9565-7cf250d1b3b9",
+    "id": "2e9910da-631a-4e89-8e3e-a393ee4578c2",
     "spot": "Kijkduin / Den Haag",
     "url_code": "kijkduin_den_haag",
     "country_code": "NL",
@@ -578,7 +578,7 @@
     "score6": 0.0334
   },
   {
-    "id": "6f7d0a8d-d775-447c-aa5e-dac9e615467d",
+    "id": "cb10df91-8236-4cca-b533-064028a0233e",
     "spot": "La Palma Aeropuerto",
     "url_code": "la_palma",
     "country_code": "ES",
@@ -586,16 +586,16 @@
       "latitude": 28.62,
       "longitude": -17.75
     },
-    "score0": 0.3354,
-    "score1": 0.5024,
-    "score2": 0.64,
+    "score0": 0.4073,
+    "score1": 0.5295,
+    "score2": 0.5932,
     "score3": 0.5074,
     "score4": 0.3403,
     "score5": 0.4756,
     "score6": 0.5385
   },
   {
-    "id": "83ca83c1-351f-48e5-a634-0e85ed562ae8",
+    "id": "efab5518-bceb-4dfc-ac08-d9d548340d0a",
     "spot": "Laboe",
     "url_code": "laboe",
     "country_code": "DE",
@@ -612,7 +612,7 @@
     "score6": 0.1157
   },
   {
-    "id": "163aba5f-eb75-458c-849b-2264928a14c8",
+    "id": "320a12a4-b138-4af9-a0ab-c21dc83f5a8d",
     "spot": "Lanzarote Aeropuerto",
     "url_code": "lanzarote",
     "country_code": "ES",
@@ -620,16 +620,16 @@
       "latitude": 28.95,
       "longitude": -13.6
     },
-    "score0": 0.6216,
-    "score1": 0.6975,
-    "score2": 0.6964,
+    "score0": 0.6758,
+    "score1": 0.6605,
+    "score2": 0.687,
     "score3": 0.6272,
     "score4": 0.6489,
     "score5": 0.6124,
     "score6": 0.6307
   },
   {
-    "id": "522d8541-9a0f-4710-81ac-0d6625c7cd82",
+    "id": "6f0af21b-5249-4058-84e4-ad58a7d54a04",
     "spot": "Lauwersoog",
     "url_code": "lauwersoog",
     "country_code": "NL",
@@ -646,7 +646,7 @@
     "score6": 0.1624
   },
   {
-    "id": "ecb8d9e9-7b38-494f-8692-49a179a8799b",
+    "id": "2af77b9b-f7d5-4618-a8db-c84a681bcf4b",
     "spot": "Maasvlakte",
     "url_code": "maasvlakte",
     "country_code": "NL",
@@ -663,7 +663,7 @@
     "score6": 0.057
   },
   {
-    "id": "2f752614-9c66-42f8-b011-508929388386",
+    "id": "14bf3829-e8c0-4a30-a33a-086458382987",
     "spot": "Mah\u00f3n/Menorca Aeropuerto",
     "url_code": "mahon",
     "country_code": "ES",
@@ -680,7 +680,7 @@
     "score6": 0.853
   },
   {
-    "id": "7367b8ea-7ac5-463c-974d-7d8498e98c88",
+    "id": "26e7b280-d25a-491e-a1a3-f56256a71421",
     "spot": "Mallorca / Can Pastilla",
     "url_code": "mallorca_can_pastilla",
     "country_code": "ES",
@@ -697,7 +697,7 @@
     "score6": 0.1645
   },
   {
-    "id": "9a6f8167-2e78-44fe-87fc-22077010c9f4",
+    "id": "676eaeed-2c3f-41f5-80bb-73af82780fb0",
     "spot": "Marina Valencia",
     "url_code": "marina_valencia",
     "country_code": "ES",
@@ -714,7 +714,7 @@
     "score6": 0.1851
   },
   {
-    "id": "2c89605b-e98f-486c-97a5-0d7312d5880c",
+    "id": "1d3e5437-7141-49eb-91e0-9fa9469c5161",
     "spot": "Markermeer / Schellinkhout",
     "url_code": "markermeer_schellinkhout",
     "country_code": "NL",
@@ -731,7 +731,7 @@
     "score6": 0.0571
   },
   {
-    "id": "95b0f864-4026-460a-8f58-cce13c5163b2",
+    "id": "aaeecce8-0f77-4c71-bb41-74f59986b66c",
     "spot": "Nieblum / F\u00f6hr",
     "url_code": "nieblum_foehr",
     "country_code": "DE",
@@ -748,7 +748,7 @@
     "score6": 0.3969
   },
   {
-    "id": "343d4041-84d0-41ca-b55c-9a3292b7ab61",
+    "id": "bdbebb1d-b6cb-4c0a-939d-affd5e3259d4",
     "spot": "Noordwijk",
     "url_code": "noordwijk",
     "country_code": "NL",
@@ -765,7 +765,7 @@
     "score6": 0.0847
   },
   {
-    "id": "414284d8-5a25-48c0-9904-0e6c93b22542",
+    "id": "b1714088-8750-4337-b73f-828ac05f6836",
     "spot": "Noordwijk aan Zee",
     "url_code": "noordwijk_aan_zee",
     "country_code": "NL",
@@ -782,7 +782,7 @@
     "score6": 0.0486
   },
   {
-    "id": "d769ccce-010e-4735-95a8-3606b3d3fcbb",
+    "id": "4cb4b334-b1e4-4c73-a28f-792e6e87f28a",
     "spot": "Norddeich",
     "url_code": "norddeich",
     "country_code": "DE",
@@ -799,7 +799,7 @@
     "score6": 0.1507
   },
   {
-    "id": "be919c77-2b5d-4e92-b239-44cad1a430d4",
+    "id": "4f52f546-1914-43a0-a986-c8bc60d1feff",
     "spot": "Oosterschelde / Oesterdam",
     "url_code": "oosterschelde_oesterdam",
     "country_code": "NL",
@@ -816,7 +816,7 @@
     "score6": 0.0141
   },
   {
-    "id": "198d53bb-090a-4b31-a035-b4e7502b6bbe",
+    "id": "e368ef68-dabb-430b-9555-0aa476eb8d04",
     "spot": "Oostvoorne",
     "url_code": "oostvoorne",
     "country_code": "NL",
@@ -833,7 +833,7 @@
     "score6": 0.0486
   },
   {
-    "id": "c7c0582d-79e9-4497-b5c2-46f7ac217528",
+    "id": "7447707a-9da9-495b-93b0-c46fd566e02b",
     "spot": "Ouddorp",
     "url_code": "ouddorp",
     "country_code": "NL",
@@ -850,7 +850,7 @@
     "score6": 0.035
   },
   {
-    "id": "1ef1c9b3-6980-4dcd-b858-2595fd76adc2",
+    "id": "cbded723-5819-4cda-b209-f6b2b7cf3543",
     "spot": "Palma de Mallorca Puerto",
     "url_code": "palma_de_mallorca_puerto",
     "country_code": "ES",
@@ -867,7 +867,7 @@
     "score6": 0.231
   },
   {
-    "id": "6ccca4a7-a9b6-41e4-b8ce-bc6eabc407d4",
+    "id": "98744f02-c536-4ad5-a264-fee79101da89",
     "spot": "Pelzerhaken",
     "url_code": "pelzerhaken",
     "country_code": "DE",
@@ -884,7 +884,7 @@
     "score6": 0.0652
   },
   {
-    "id": "4532a1b9-8033-4c61-bd83-47c28537fc01",
+    "id": "44d70ffa-7d38-4e13-afaf-9ba0349e2a2f",
     "spot": "Punta Galea/Getxo",
     "url_code": "punta_galea_getxo",
     "country_code": "ES",
@@ -901,7 +901,7 @@
     "score6": 0.1734
   },
   {
-    "id": "00186393-09ae-4090-9b95-ca340da0eaa8",
+    "id": "5fc67bf5-8e26-4b63-9720-2fb3ba48a1ef",
     "spot": "Renesse / Brouwersdam",
     "url_code": "renesse_brouwersdam",
     "country_code": "NL",
@@ -918,7 +918,7 @@
     "score6": 0.0418
   },
   {
-    "id": "9248b615-5d6f-4ce2-8dc2-95774e6bf419",
+    "id": "e808378c-62ef-4da6-9a03-ad844810315a",
     "spot": "Ribeira Boya",
     "url_code": "ribeira_boya",
     "country_code": "ES",
@@ -935,7 +935,7 @@
     "score6": 0.0947
   },
   {
-    "id": "1305a5f2-df83-43ff-b103-40942c59b948",
+    "id": "c327eb9e-79c3-49ff-a0bf-89739da46994",
     "spot": "Rockanje Swinsedreef",
     "url_code": "rockanje",
     "country_code": "NL",
@@ -952,7 +952,7 @@
     "score6": 0.035
   },
   {
-    "id": "7d39e3dd-1efe-4612-be3a-2bb5d8f22f22",
+    "id": "cf0265bc-c4a9-4704-9c1b-2343db70633e",
     "spot": "Scheveningen",
     "url_code": "scheveningen",
     "country_code": "NL",
@@ -969,7 +969,7 @@
     "score6": 0.0335
   },
   {
-    "id": "1be3f95f-cd8f-4751-9aca-faa2d03c563c",
+    "id": "a53042f9-010d-423e-818f-212c102b9222",
     "spot": "Skt. Peter-Ording",
     "url_code": "skt_peter-ording",
     "country_code": "DE",
@@ -986,7 +986,7 @@
     "score6": 0.2717
   },
   {
-    "id": "4a04cf61-688a-4c60-ab4d-06e300bf5c76",
+    "id": "20ad2c05-2e5e-4f0c-bd85-05f487ae9df5",
     "spot": "Sotavento",
     "url_code": "sotavento",
     "country_code": "ES",
@@ -994,16 +994,16 @@
       "latitude": 28.1385,
       "longitude": -14.239
     },
-    "score0": 0.7823,
-    "score1": 0.753,
-    "score2": 0.7116,
+    "score0": 0.7768,
+    "score1": 0.7619,
+    "score2": 0.7345,
     "score3": 0.644,
     "score4": 0.6002,
     "score5": 0.6605,
     "score6": 0.5131
   },
   {
-    "id": "f0235b0d-082c-49cd-80a3-8a4b8f9751dc",
+    "id": "0b082b9f-a574-4d42-961c-5b67bc768998",
     "spot": "St. Peter-Ording",
     "url_code": "st._peter-ording",
     "country_code": "DE",
@@ -1020,7 +1020,7 @@
     "score6": 0.2717
   },
   {
-    "id": "9ed7a0b7-46c0-4407-a75a-72e83c730ccd",
+    "id": "2ec9ad5d-2263-4708-9efc-98851bffdd59",
     "spot": "Stavoren",
     "url_code": "stavoren",
     "country_code": "NL",
@@ -1037,7 +1037,7 @@
     "score6": 0.116
   },
   {
-    "id": "7cbe05c7-903c-4a58-86a6-6db4670e8dda",
+    "id": "8cf1bd23-67d8-4712-bdb8-74b3a9d84b4b",
     "spot": "Steinhude/Fliegerhorst Wunstorf",
     "url_code": "steinhude",
     "country_code": "DE",
@@ -1054,7 +1054,7 @@
     "score6": 0.0203
   },
   {
-    "id": "d67eceaa-8154-4ea5-a478-529f15c7f1f8",
+    "id": "1a619c9d-522f-4b27-a0b1-fe222d488390",
     "spot": "Strand Horst",
     "url_code": "strand_horst",
     "country_code": "NL",
@@ -1071,7 +1071,7 @@
     "score6": 0.0073
   },
   {
-    "id": "1a1506ce-e3f0-493a-9933-db78f651359f",
+    "id": "d3a9a1c1-6729-427a-b7be-69616db4b545",
     "spot": "Tarifa Centro",
     "url_code": "tarifa",
     "country_code": "ES",
@@ -1088,7 +1088,7 @@
     "score6": 0.2312
   },
   {
-    "id": "7bf8071d-938f-468c-81e8-4f2fbd75f063",
+    "id": "46277d59-401a-43f4-aa55-e7c31fd3fe4a",
     "spot": "Torrevieja",
     "url_code": "torrevieja",
     "country_code": "ES",
@@ -1105,7 +1105,7 @@
     "score6": 0.3946
   },
   {
-    "id": "85c9b7b2-b708-4c04-ba62-de244a23e99d",
+    "id": "3215836a-308e-411a-9ef7-1cd7392e10ad",
     "spot": "Trintelhaven / Ijsselmeer",
     "url_code": "trintelhaven_ijsselmeer",
     "country_code": "NL",
@@ -1122,7 +1122,7 @@
     "score6": 0.0749
   },
   {
-    "id": "fe3c8b39-f7c8-43de-a722-0bc638736395",
+    "id": "c3c9ab3b-1c33-4c33-8255-bf0fd1653f5f",
     "spot": "Viana do Castelo",
     "url_code": "viana_do_castelo",
     "country_code": "PT",
@@ -1139,7 +1139,7 @@
     "score6": 0.0445
   },
   {
-    "id": "741bfb69-6e42-4eba-bbd0-cdd8a1b7f195",
+    "id": "5553bbff-16ba-44b0-a9bb-5ae89b72ef48",
     "spot": "Villano-Sisargas Boya",
     "url_code": "villano-sisargas",
     "country_code": "ES",
@@ -1156,7 +1156,7 @@
     "score6": 0.1365
   },
   {
-    "id": "4e2bbe7c-4df1-44a2-8e52-4e80483b8c75",
+    "id": "38fc978d-d112-4f88-843c-d7a056f1a1f0",
     "spot": "Vlissingen Sluizen",
     "url_code": "vlissingen",
     "country_code": "NL",
@@ -1173,7 +1173,7 @@
     "score6": 0.0073
   },
   {
-    "id": "d4ae7b66-0e07-4028-bc18-0d2dd07fd270",
+    "id": "bf8ae956-540f-4323-ad0e-3c475e1e5fc1",
     "spot": "Wannsee",
     "url_code": "wannsee",
     "country_code": "DE",
@@ -1190,7 +1190,7 @@
     "score6": 0.001
   },
   {
-    "id": "14c64685-5af0-46e8-b29f-9709049ab856",
+    "id": "c9c8095d-ea03-4b88-ad5d-c3176bfd98b4",
     "spot": "Warnem\u00fcnde Wetterwarte",
     "url_code": "warnemuende",
     "country_code": "DE",
@@ -1207,7 +1207,7 @@
     "score6": 0.0944
   },
   {
-    "id": "2c810b6c-2351-492a-9803-698d8eb74dc3",
+    "id": "4cb2c788-ed75-4e63-9900-b6e75b8f1594",
     "spot": "Westermarkelsdorf",
     "url_code": "westermarkelsdorf",
     "country_code": "DE",
@@ -1224,7 +1224,7 @@
     "score6": 0.2008
   },
   {
-    "id": "24c5e561-30ea-4d43-bf2a-d7fddf26ae32",
+    "id": "78512557-0896-4964-a0c5-8a45b0812a56",
     "spot": "Wijdenes / Schellinkhout",
     "url_code": "schellinkhout",
     "country_code": "NL",
@@ -1241,7 +1241,7 @@
     "score6": 0.0654
   },
   {
-    "id": "5af2ff0f-7e74-44b3-ba69-352f1f4c391c",
+    "id": "709ebcf5-7cb5-46c3-bd7e-8c4a001447f1",
     "spot": "Wijk aan Zee",
     "url_code": "wijk_aan_zee",
     "country_code": "NL",
@@ -1258,7 +1258,7 @@
     "score6": 0.0751
   },
   {
-    "id": "4b342c63-0faa-4ca7-b7ce-8a5a4e12c183",
+    "id": "15ca38c8-0312-4d5c-b4d3-9696534db56e",
     "spot": "Wijk aan Zee / Noordpier",
     "url_code": "wijk_aan_zee_noordpier",
     "country_code": "NL",
@@ -1275,7 +1275,7 @@
     "score6": 0.0847
   },
   {
-    "id": "fe5ff517-e6de-42e1-a9f3-27514411b02b",
+    "id": "ecb80901-727b-43f1-a735-510bbfcf52f2",
     "spot": "Wissant",
     "url_code": "cap-gris-nez",
     "country_code": "FR",
@@ -1292,7 +1292,7 @@
     "score6": 0.0395
   },
   {
-    "id": "0e3e2f7e-d7a3-43d1-b390-105956ad0679",
+    "id": "bda59eb9-50e5-433e-912b-2a80db9cf6c2",
     "spot": "Wolderwijd / Strand Horst",
     "url_code": "wolderwijd_strand_horst",
     "country_code": "NL",
@@ -1309,7 +1309,7 @@
     "score6": 0.0073
   },
   {
-    "id": "9cb75866-fcef-4239-94ad-44a43fc7254b",
+    "id": "f1bfe727-4ddb-491c-be8f-78fa40679313",
     "spot": "Wyk auf F\u00f6hr",
     "url_code": "wyk_foehr",
     "country_code": "DE",
