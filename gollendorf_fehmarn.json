@@ -5,7 +5,7 @@
     "longitude": 11.0687
   },
   "country_code": "DE",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     1,
     1,
@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 21,
-  "current_wind_direction": 20,
+  "current_wind": 16,
+  "current_wind_direction": 30,
   "wind_speed": [
     16.0,
     16.0,
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "cloud.fill"
   ],
-  "current_temperature": 2,
+  "current_temperature": 0,
   "temperature": [
     1.0,
     1.0,
