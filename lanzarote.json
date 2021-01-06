@@ -334,8 +334,8 @@
     18,
     21
   ],
-  "current_wind": 12,
-  "current_wind_direction": 230,
+  "current_wind": 10,
+  "current_wind_direction": 240,
   "wind_speed": [
     14.0,
     17.0,
@@ -360,7 +360,7 @@
     18.0,
     18.0,
     18.0,
-    16.0,
+    18.0,
     19,
     14,
     16,
@@ -442,7 +442,7 @@
     20.0,
     22.0,
     22.0,
-    20.0,
+    22.0,
     22,
     17,
     19,
@@ -852,7 +852,7 @@
     "cloud.sun.fill",
     "cloud.drizzle.fill",
     "cloud.sun.rain.fill",
-    "cloud.moon.rain.fill",
+    "cloud.moon.fill",
     "cloud.moon.fill",
     "moon.fill",
     "moon.fill",
@@ -910,7 +910,7 @@
     "sun.max.fill",
     "moon.fill"
   ],
-  "current_temperature": 21,
+  "current_temperature": 20,
   "temperature": [
     18.0,
     18.0,
