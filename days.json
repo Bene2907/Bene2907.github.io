@@ -1,11 +1,11 @@
 [
   {
     "code": 0,
-    "weekday": "TODAY"
+    "weekday": "TOD"
   },
   {
     "code": 1,
-    "weekday": "TMRW"
+    "weekday": "TMW"
   },
   {
     "code": 2,

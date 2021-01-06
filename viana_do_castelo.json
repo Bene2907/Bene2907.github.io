@@ -5,7 +5,7 @@
     "longitude": -8.8
   },
   "country_code": "PT",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     1,
     1,
@@ -334,8 +334,8 @@
     18,
     21
   ],
-  "current_wind": 6,
-  "current_wind_direction": 32,
+  "current_wind": 2,
+  "current_wind_direction": 10,
   "wind_speed": [
     7.0,
     7.0,
@@ -350,7 +350,7 @@
     6.0,
     4.0,
     8.0,
-    10.0,
+    9.0,
     10.0,
     8.0,
     7.0,
@@ -431,9 +431,9 @@
     12.0,
     8.0,
     6.0,
-    10.0,
-    16.0,
-    20.0,
+    8.0,
+    15.0,
+    18.0,
     18.0,
     10.0,
     10.0,
@@ -514,9 +514,9 @@
     49,
     4,
     358,
-    14,
-    22,
-    39,
+    9,
+    31,
+    50,
     54,
     50,
     46,
@@ -910,7 +910,7 @@
     "cloud.drizzle.fill",
     "cloud.heavyrain.fill"
   ],
-  "current_temperature": 7,
+  "current_temperature": 6,
   "temperature": [
     2.0,
     2.0,
