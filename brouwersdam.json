@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 17,
-  "current_wind_direction": 336,
+  "current_wind": 18,
+  "current_wind_direction": 341,
   "wind_speed": [
     11.0,
     10.0,
@@ -910,7 +910,7 @@
     "moon.fill",
     "moon.fill"
   ],
-  "current_temperature": 5,
+  "current_temperature": 6,
   "temperature": [
     4.0,
     4.0,
