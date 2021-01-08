@@ -5,7 +5,7 @@
     "longitude": 2.2011
   },
   "country_code": "ES",
-  "is_weather_station": true,
+  "is_weather_station": false,
   "month": [
     1,
     1,
@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 5,
-  "current_wind_direction": 354,
+  "current_wind": 4,
+  "current_wind_direction": 295,
   "wind_speed": [
     5.0,
     5.0,
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "moon.fill"
   ],
-  "current_temperature": 2,
+  "current_temperature": 6,
   "temperature": [
     6.0,
     6.0,
