@@ -335,7 +335,7 @@
     22
   ],
   "current_wind": 3,
-  "current_wind_direction": 60,
+  "current_wind_direction": 80,
   "wind_speed": [
     6.0,
     4.0,
@@ -910,7 +910,7 @@
     "cloud.drizzle.fill",
     "cloud.rain.fill"
   ],
-  "current_temperature": 2,
+  "current_temperature": 3,
   "temperature": [
     -1.0,
     -1.0,
