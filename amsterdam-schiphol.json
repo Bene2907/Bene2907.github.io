@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 7,
-  "current_wind_direction": 290,
+  "current_wind": 5,
+  "current_wind_direction": 300,
   "wind_speed": [
     4.0,
     4.0,
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "cloud.moon.fill"
   ],
-  "current_temperature": 6,
+  "current_temperature": 5,
   "temperature": [
     1.0,
     1.0,
