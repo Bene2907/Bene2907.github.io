@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 10,
-  "current_wind_direction": 7,
+  "current_wind": 11,
+  "current_wind_direction": 354,
   "wind_speed": [
     9.0,
     10.0,
@@ -659,10 +659,10 @@
     1.1,
     1.1,
     1.3,
+    1.3,
+    1.3,
     1.2,
-    1.3,
-    1.3,
-    0
+    1.3
   ],
   "wave_period": [
     9.0,
@@ -741,10 +741,10 @@
     6,
     6,
     6,
-    5,
-    5,
     6,
-    0
+    6,
+    6,
+    6
   ],
   "wave_direction": [
     340,
@@ -823,10 +823,10 @@
     284,
     261,
     272,
-    252,
-    260,
-    256,
-    0
+    276,
+    257,
+    270,
+    270
   ],
   "weather_icon": [
     "cloud.moon.fill",
