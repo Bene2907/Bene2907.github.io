@@ -601,7 +601,7 @@
     0.6,
     0.7,
     0.8,
-    0.4,
+    0.8,
     0.0,
     0,
     0,
@@ -683,7 +683,7 @@
     6.0,
     5.0,
     4.0,
-    2.0,
+    5.0,
     0.0,
     0,
     0,
@@ -905,7 +905,7 @@
     "sun.max.fill",
     "moon.fill"
   ],
-  "current_temperature": 5,
+  "current_temperature": 6,
   "temperature": [
     6,
     6,
