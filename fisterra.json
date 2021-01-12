@@ -5,7 +5,7 @@
     "longitude": -9.2894
   },
   "country_code": "ES",
-  "is_weather_station": false,
+  "is_weather_station": true,
   "month": [
     1,
     1,
@@ -333,8 +333,8 @@
     16,
     19
   ],
-  "current_wind": 8,
-  "current_wind_direction": 65,
+  "current_wind": 11,
+  "current_wind_direction": 78,
   "wind_speed": [
     6,
     4,
