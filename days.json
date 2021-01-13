@@ -9,22 +9,22 @@
   },
   {
     "code": 2,
-    "weekday": "FRI"
-  },
-  {
-    "code": 3,
     "weekday": "SAT"
   },
   {
-    "code": 4,
+    "code": 3,
     "weekday": "SUN"
   },
   {
-    "code": 5,
+    "code": 4,
     "weekday": "MON"
   },
   {
-    "code": 6,
+    "code": 5,
     "weekday": "TUE"
+  },
+  {
+    "code": 6,
+    "weekday": "WED"
   }
 ]
