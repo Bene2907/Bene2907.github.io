@@ -334,8 +334,8 @@
     19,
     22
   ],
-  "current_wind": 12,
-  "current_wind_direction": 258,
+  "current_wind": 9,
+  "current_wind_direction": 294,
   "wind_speed": [
     10.0,
     10.0,
@@ -910,7 +910,7 @@
     "cloud.fill",
     "cloud.fill"
   ],
-  "current_temperature": 6,
+  "current_temperature": 5,
   "temperature": [
     3.0,
     3.0,

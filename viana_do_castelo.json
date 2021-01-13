@@ -5,7 +5,7 @@
     "longitude": -8.8
   },
   "country_code": "PT",
-  "is_weather_station": true,
+  "is_weather_station": false,
   "month": [
     1,
     1,
@@ -334,8 +334,8 @@
     18,
     21
   ],
-  "current_wind": 0,
-  "current_wind_direction": 0,
+  "current_wind": 5,
+  "current_wind_direction": 277,
   "wind_speed": [
     6.0,
     7.0,
@@ -910,7 +910,7 @@
     "cloud.moon.fill",
     "cloud.fill"
   ],
-  "current_temperature": 8,
+  "current_temperature": 11,
   "temperature": [
     2.0,
     2.0,
