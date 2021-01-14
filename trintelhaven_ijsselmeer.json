@@ -335,7 +335,7 @@
     22
   ],
   "current_wind": 16,
-  "current_wind_direction": 80,
+  "current_wind_direction": 70,
   "wind_speed": [
     12.0,
     10.0,
@@ -821,12 +821,12 @@
     244,
     244,
     243,
-    241,
-    237,
-    254,
-    256,
-    261,
-    267
+    221,
+    227,
+    244,
+    252,
+    233,
+    234
   ],
   "weather_icon": [
     "cloud.fill",
