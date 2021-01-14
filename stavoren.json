@@ -335,7 +335,7 @@
     22
   ],
   "current_wind": 2,
-  "current_wind_direction": 65,
+  "current_wind_direction": 100,
   "wind_speed": [
     9.0,
     8.0,
@@ -653,7 +653,6 @@
     0.5,
     0.4,
     0.4,
-    0.5,
     0.4,
     0.4,
     0.4,
@@ -661,8 +660,9 @@
     0.4,
     0.4,
     0.4,
-    0.3,
-    0
+    0.4,
+    0.4,
+    0.3
   ],
   "wave_period": [
     2.0,
@@ -744,7 +744,7 @@
     3,
     3,
     3,
-    0
+    3
   ],
   "wave_direction": [
     37,
@@ -816,17 +816,17 @@
     250,
     254,
     256,
-    242,
-    242,
-    241,
-    249,
+    262,
+    245,
+    254,
     255,
-    253,
-    237,
-    225,
-    221,
+    256,
+    250,
+    238,
+    230,
     234,
-    0
+    205,
+    220
   ],
   "weather_icon": [
     "cloud.moon.fill",
@@ -910,7 +910,7 @@
     "cloud.snow.fill",
     "cloud.snow.fill"
   ],
-  "current_temperature": -1,
+  "current_temperature": -2,
   "temperature": [
     2.0,
     1.0,
